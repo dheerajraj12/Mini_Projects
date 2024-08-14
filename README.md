@@ -1,1 +1,1 @@
-These are C projects. 
+These are Next.js projects. 

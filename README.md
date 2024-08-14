@@ -1,1 +1,1 @@
-These are Next.js projects. 
+These are [C](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)  projects. 

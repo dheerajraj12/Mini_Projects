@@ -1,1 +1,1 @@
-# Mini_Projects
+These are C projects. 

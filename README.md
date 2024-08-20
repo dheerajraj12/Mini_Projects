@@ -1,1 +1,1 @@
-These are [C](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) projects. 
+These are mini [C](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) projects built using various functionalities such as IfElse, Loops, Functions, Recursion. 
